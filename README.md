@@ -18,5 +18,7 @@ Contract "Loan":
 Called by the third pirty. There are three function inside the contract. The function "setLoan" is used to set the loan information for the borrowing and repaying. The second function is "borrowLoan". Before calling this function. It is important to to call "setApprovedForAll" in both the borrower's contract and the escrow's contract.
 It is essential for other party to transact their NFT or token on their behalf. After approved. "borrowLoan" can be called. The token will transafer from the escrow to the borrower and the NFT will be transferred from the borrower to the escrow.
 
+![Approved](https://user-images.githubusercontent.com/91397409/201116713-3edcc624-fac7-4e5f-adf3-bac8bbf78250.png)
+
 
 
