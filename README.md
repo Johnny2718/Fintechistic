@@ -11,3 +11,4 @@ It will be called by the borrower, once deployed, NFT will be minted to the addr
 
 Contract "Escrow":
 It will be called by the escrow, once deployed, token will be minted to the escrow's account. The transaction record can be viewed on Etherscan.
+![Etherscan](https://user-images.githubusercontent.com/91397409/201112190-7f30b764-c644-48e1-bd6c-a09024bcb95a.png)
